@@ -22,7 +22,7 @@ const AuthLayout = ({ children }) => {
         <NavbarBrand>
           <Link as={RouterLink} to="/" className="font-bold text-inherit flex items-center">
             <Icon icon="lucide:briefcase" className="text-primary mr-2" width={24} />
-            <span className="text-purple-800">Employee Management System</span>
+            <span className="text-purple-800">HR Management System</span>
           </Link>
         </NavbarBrand>
 
