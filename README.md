@@ -87,11 +87,6 @@ REACT_APP_API_BASE_URL=http://localhost:8080/api
 
 ---
 
-## 🤝 Contribution
-
-Contributions are welcome! Please fork the repository and create a pull request for any enhancements.
-
----
 
 ## 📄 License
 
